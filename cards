@@ -1,1 +1,21 @@
-
+{
+  "cards":[
+    {
+      "id":1,
+      "name":"Dragon Soldier",
+      "type":"Spirit",
+      "cost":3,
+      "color":"Red",
+      "bp":3000,
+      "image":"cards/images/dragon_soldier.jpg"
+    },
+    {
+      "id":2,
+      "name":"Flame Magic",
+      "type":"Magic",
+      "cost":2,
+      "color":"Red",
+      "image":"cards/images/flame_magic.jpg"
+    }
+  ]
+}
