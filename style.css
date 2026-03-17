@@ -1,1 +1,19 @@
+body{
+background:#1a1a1a;
+color:white;
+text-align:center;
+}
 
+#field{
+display:grid;
+grid-template-rows:1fr 1fr;
+height:80vh;
+}
+
+#player-field{
+border:2px solid white;
+}
+
+#enemy-field{
+border:2px solid red;
+}
